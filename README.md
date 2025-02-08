@@ -1,0 +1,2 @@
+# MOBILE-ID-DEMO_SIGN_PKCS11_IAIK
+DEMO_SIGN_PKCS11_IAIK Include project DemoSignPKCS11_IAIK and lib iaik_jce.jar
